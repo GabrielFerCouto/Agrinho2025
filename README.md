@@ -42,8 +42,7 @@ O projeto é organizado da seguinte forma:
 
 ## 👨‍💻 Desenvolvido por
 
-[Seu Nome / Nomes dos Integrantes do Grupo]
-[Sua Turma/Disciplina, se aplicável]
-[Data de Conclusão, se aplicável]
+[Gabriel Couto - Sabryna Rossi]
+[Mat II - 3B]
 
 -----
